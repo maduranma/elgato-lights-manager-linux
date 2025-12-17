@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/Button.qml</file>
+        <file>qml/elements/OnOffButton.qml</file>
+        <file>qml/elements/KeyLight.qml</file>
+    </qresource>
+
+    <qresource prefix="/">
+        <file>svg/bulb.svg</file>
+        <file>svg/close.svg</file>
+        <file>svg/cog.svg</file>
+        <file>svg/power-black.svg</file>
+        <file>svg/power-white.svg</file>
+        <file>svg/low-brightness.svg</file>
+        <file>svg/high-brightness.svg</file>
+        <file>svg/low-temperature.svg</file>
+        <file>svg/high-temperature.svg</file>
+    </qresource>
+</RCC>
